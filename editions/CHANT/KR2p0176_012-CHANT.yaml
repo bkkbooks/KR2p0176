@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0176/chant/v1/juan/12
+seq: 12
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 置吏律縣都官十二郡免除吏及佐羣官屬以十二月朔日免除盡三月而止之其有死亡及故有夬者為補之毋須時置吏律除吏尉已除之乃令視事及遣之所不當除而敢先見事及相聽以遺之以律論之嗇夫之送見它官者不得除其故官佐吏以之新官置吏律官嗇夫節不存令君子毋害者若令史守官毋令官佐史守置吏律
+  hash: sha256:e8c1ea97de31e2fee64f54924ef92b8eadabdf1a5c04461c680952db27c4810c
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0176_CHANT_012-1a.1-h}
+metadata:
+  title: 秦律十八種
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0176.xml
+hash: sha256:455c9c3c9e4c6b945562eda031b96f5350c15e0416205b490eb410ae849a91d2

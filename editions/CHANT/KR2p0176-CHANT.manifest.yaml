@@ -1,0 +1,240 @@
+canonical_identifier: bkk:krp/KR2p0176/CHANT/v1
+canonical_location: https://kanripo.org/bkk/KR2p0176/CHANT/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 秦律十八種
+  identifiers:
+    krp: KR2p0176
+  tags:
+    tls-internal:
+    - swl
+    - tr-zh
+    kr-categories: KR2p
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0176.xml
+  edition:
+    short: CHANT
+assets:
+  parts:
+  - {seq: 1, filename: KR2p0176_001-CHANT.yaml, hash: 'sha256:8cc5071b13b02ece77a73e058681794e891e13603aec12ee7a14ba8752aa3503'}
+  - {seq: 2, filename: KR2p0176_002-CHANT.yaml, hash: 'sha256:33b97fce7001db50f8e6c51e26c16a836bddb0718a52e7014a3a7adb98d71e09'}
+  - {seq: 3, filename: KR2p0176_003-CHANT.yaml, hash: 'sha256:7c0f65cc919c3b1a506fb7c2c3048f9598837c8fef6bd8146b94075a7d370e07'}
+  - {seq: 4, filename: KR2p0176_004-CHANT.yaml, hash: 'sha256:ac500bd46ccc822e8fcf1af5b8e36954dd7eeb2f9df02eebd78b2ae741236e84'}
+  - {seq: 5, filename: KR2p0176_005-CHANT.yaml, hash: 'sha256:d4aa016b7aec25900fd47e32d696660352909b67f8f9e7fb07bab2409b30d99c'}
+  - {seq: 6, filename: KR2p0176_006-CHANT.yaml, hash: 'sha256:b0da46956c7f89992ae4cd37e31f6e9709c0a5d90d7b48354a8c2d19d37f5623'}
+  - {seq: 7, filename: KR2p0176_007-CHANT.yaml, hash: 'sha256:5d8860b71f9f92f6db7c35b6d333873928e63a8514a6da9e342f29ec31ba2f8c'}
+  - {seq: 8, filename: KR2p0176_008-CHANT.yaml, hash: 'sha256:f43f4f801aea09497f9ae85b8a6b4d8c82e73fbe8e67cf55c7cdc03e5f02666d'}
+  - {seq: 9, filename: KR2p0176_009-CHANT.yaml, hash: 'sha256:b679f3eb8729a03c8d9dcde8ed8f5b3f8e3376cbfcd1bd8f454d34e5d6120bef'}
+  - {seq: 10, filename: KR2p0176_010-CHANT.yaml, hash: 'sha256:be0fe868a7501aa98fbc36c304f80cb1e3073fce0c0c75e5bb0a3df8a7a62570'}
+  - {seq: 11, filename: KR2p0176_011-CHANT.yaml, hash: 'sha256:f463613d6df7fa0040adf34cebf18e1751d252b2992440db3df88763d4c57c48'}
+  - {seq: 12, filename: KR2p0176_012-CHANT.yaml, hash: 'sha256:455c9c3c9e4c6b945562eda031b96f5350c15e0416205b490eb410ae849a91d2'}
+  - {seq: 13, filename: KR2p0176_013-CHANT.yaml, hash: 'sha256:35cfddffc6c517571b9a0d5831bfbc9ce76eb61922fbffc3406f618fabff894b'}
+  - {seq: 14, filename: KR2p0176_014-CHANT.yaml, hash: 'sha256:2e505807fbdf8fc19aa1505f6cfc0b007f259b0c4d01d1bf0b1a66eec44ae408'}
+  - {seq: 15, filename: KR2p0176_015-CHANT.yaml, hash: 'sha256:7ef075e751a5c05cf4fdbe660f46468629421d904feda4248b3d05f38e9aece5'}
+  - {seq: 16, filename: KR2p0176_016-CHANT.yaml, hash: 'sha256:ed2d59e96d84c8ebc8d91006dbcfe7506b7e0a5befae04a2d69976bc7a814181'}
+  - {seq: 17, filename: KR2p0176_017-CHANT.yaml, hash: 'sha256:c9b22645a9c7312fd0f0ce8d8c4f75f09d6224e6ff071a5fd1fb9b60032b4b40'}
+  - {seq: 18, filename: KR2p0176_018-CHANT.yaml, hash: 'sha256:a124b1d76390ed7ca092160fdb40797c90f4e2db2ca147fb53f19840069a137e'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR2p0176_001-CHANT.markers.yaml, hash: 'sha256:03f33df205bae68f6f6129081233014bcbc5a44d222e419327a4e1f1eb0d0fe1'}
+  - {seq: 2, role: markers, filename: assets/KR2p0176_002-CHANT.markers.yaml, hash: 'sha256:6b733ad77760b48104794c753b687c23c2f805869eaf75d2bdc55b5b4325635e'}
+  - {seq: 3, role: markers, filename: assets/KR2p0176_003-CHANT.markers.yaml, hash: 'sha256:8506954814599e7860adb92e396cfcece20949b08ae96afd1ee358f2fe226286'}
+  - {seq: 4, role: markers, filename: assets/KR2p0176_004-CHANT.markers.yaml, hash: 'sha256:733b5932a9f06fcd77a9c2e02b0cc91134e2939f33e1ee3c3cde7eb3760d6618'}
+  - {seq: 5, role: markers, filename: assets/KR2p0176_005-CHANT.markers.yaml, hash: 'sha256:4afbf35a80a8b80f6f6aefc940d3f79f73e54d21283895a79b12c13a252ea787'}
+  - {seq: 6, role: markers, filename: assets/KR2p0176_006-CHANT.markers.yaml, hash: 'sha256:cbf1f0ff541c7fa1ce6692cabdeb547d5876eba39d0033addc52e31d5be71d2a'}
+  - {seq: 7, role: markers, filename: assets/KR2p0176_007-CHANT.markers.yaml, hash: 'sha256:d02d7df8943ecfbfc3fec710c417ded3f2f5a9fb023336c5960265c8ab2441d2'}
+  - {seq: 8, role: markers, filename: assets/KR2p0176_008-CHANT.markers.yaml, hash: 'sha256:602c83757055e3bca46d5528beea930c715855d89929079438020c1a0b54ec9c'}
+  - {seq: 9, role: markers, filename: assets/KR2p0176_009-CHANT.markers.yaml, hash: 'sha256:cb1cbbc0228ffe4b52e67e5e56c08374eb52f1b434e9c05cc1ff22d430a0ff1e'}
+  - {seq: 10, role: markers, filename: assets/KR2p0176_010-CHANT.markers.yaml, hash: 'sha256:5dc5565c874eff069ff14b49c7557701948ca2bfe6125a1d8de24b8fca8b280a'}
+  - {seq: 11, role: markers, filename: assets/KR2p0176_011-CHANT.markers.yaml, hash: 'sha256:2246b18142a9364f61ade9c9e7c89756c2a1d502b8c49dda9535db2f609fd35b'}
+  - {seq: 12, role: markers, filename: assets/KR2p0176_012-CHANT.markers.yaml, hash: 'sha256:49a309821f539806e7aa984c140345914892f322409c326eccebfd273a140241'}
+  - {seq: 13, role: markers, filename: assets/KR2p0176_013-CHANT.markers.yaml, hash: 'sha256:1de28a0cde8c012032185e1f7f06461879a2e5804bdb0b9a4a1fa738c5398cc5'}
+  - {seq: 14, role: markers, filename: assets/KR2p0176_014-CHANT.markers.yaml, hash: 'sha256:bb6ee1cd2e24270cb996584bf9de30bc004f6d6a89e9d8fc003ff3c9c6483c4e'}
+  - {seq: 15, role: markers, filename: assets/KR2p0176_015-CHANT.markers.yaml, hash: 'sha256:aca8e3f92cc3c528a1df97f6dfa6263c77fd5d79126222179b922d55b292857d'}
+  - {seq: 16, role: markers, filename: assets/KR2p0176_016-CHANT.markers.yaml, hash: 'sha256:c71df16aaee7a666bf30ac236746789bd2c97e672e1f35f9e90f4f58b5409d9d'}
+  - {seq: 17, role: markers, filename: assets/KR2p0176_017-CHANT.markers.yaml, hash: 'sha256:c4d8dde712bf5265726e569e5398997fdaf3d5084c1ea7c79251781c729e9013'}
+  - {seq: 18, role: markers, filename: assets/KR2p0176_018-CHANT.markers.yaml, hash: 'sha256:f23be3483a94c8fcb771446352e6c756821eec823a3a26f6a220b38d28fb800c'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR2p0176_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 345
+  label: 睡虎地秦墓竹簡秦律十八種田律
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR2p0176_CHANT_002-1a.1-h
+    span:
+    - body
+    - 0
+    - 305
+  label: 廄苑律
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR2p0176_CHANT_003-1a.1-h
+    span:
+    - body
+    - 0
+    - 1232
+  label: 倉律
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR2p0176_CHANT_004-1a.1-h
+    span:
+    - body
+    - 0
+    - 1048
+  label: 金布律
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR2p0176_CHANT_005-1a.1-h
+    span:
+    - body
+    - 0
+    - 33
+  label: 關市
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR2p0176_CHANT_006-1a.1-h
+    span:
+    - body
+    - 0
+    - 272
+  label: 工律
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR2p0176_CHANT_007-1a.1-h
+    span:
+    - body
+    - 0
+    - 89
+  label: 工人程
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR2p0176_CHANT_008-1a.1-h
+    span:
+    - body
+    - 0
+    - 82
+  label: 均工
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR2p0176_CHANT_009-1a.1-h
+    span:
+    - body
+    - 0
+    - 352
+  label: 徭律
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR2p0176_CHANT_010-1a.1-h
+    span:
+    - body
+    - 0
+    - 938
+  label: 司空
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR2p0176_CHANT_011-1a.1-h
+    span:
+    - body
+    - 0
+    - 126
+  label: 軍爵律
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR2p0176_CHANT_012-1a.1-h
+    span:
+    - body
+    - 0
+    - 130
+  label: 置吏律
+  type: section
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR2p0176_CHANT_013-1a.1-h
+    span:
+    - body
+    - 0
+    - 504
+  label: 效
+  type: section
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR2p0176_CHANT_014-1a.1-h
+    span:
+    - body
+    - 0
+    - 119
+  label: 傳食律
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR2p0176_CHANT_015-1a.1-h
+    span:
+    - body
+    - 0
+    - 84
+  label: 行書
+  type: section
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR2p0176_CHANT_016-1a.1-h
+    span:
+    - body
+    - 0
+    - 326
+  label: 內史雜
+  type: section
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR2p0176_CHANT_017-1a.1-h
+    span:
+    - body
+    - 0
+    - 28
+  label: 尉雜
+  type: section
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR2p0176_CHANT_018-1a.1-h
+    span:
+    - body
+    - 0
+    - 37
+  label: 屬邦
+  type: section
+  level: 1
+hash: sha256:3792405d7a2678a30eb2ab89b29cf77a5b445001228fbcc7a8fa0de6156e71a5

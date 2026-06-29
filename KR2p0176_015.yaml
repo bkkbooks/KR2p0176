@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0176/chant/v1/juan/15
+seq: 15
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 行書行命書及書署急者輒行之不急者日觱勿敢留留者以律論之行書行傳書受書必書其起及到日月夙莫以輒相報殹書有亡者亟告官隸臣妾老弱及不可誠仁者勿令書廷辟有曰報宜到不來者追之行書
+  hash: sha256:04036cda43e9a9b24e47891344b35de1c1b30906a8d239ef1a761ccda1bef486
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0176_CHANT_015-1a.1-h}
+metadata:
+  title: 秦律十八種
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0176.xml
+hash: sha256:7ef075e751a5c05cf4fdbe660f46468629421d904feda4248b3d05f38e9aece5

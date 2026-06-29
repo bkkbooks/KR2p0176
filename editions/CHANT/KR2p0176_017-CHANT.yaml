@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0176/chant/v1/juan/17
+seq: 17
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 尉雜歲讎辟律於御史尉雜其官之吏法律程籍勿敢行行者有罪尉雜
+  hash: sha256:23f65cabae7a1c9d412252cc9880ecdc0343dc166325309ea2b65efba28e858a
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0176_CHANT_017-1a.1-h}
+metadata:
+  title: 秦律十八種
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0176.xml
+hash: sha256:c9b22645a9c7312fd0f0ce8d8c4f75f09d6224e6ff071a5fd1fb9b60032b4b40
