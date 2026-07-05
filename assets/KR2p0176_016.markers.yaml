@@ -85,7 +85,6 @@ markers:
   - {type: 'tls:seg', offset: 148, content: '', id: KR2p0176_CHANT_016-6a.2_dup2, _xml_error: duplicate-id, _xml_original_id: KR2p0176_CHANT_016-6a.2}
   - {type: punctuation, offset: 160, content: 、, id: KR2p0176_CHANT_016-bkkpn33}
   - {type: 'tls:seg', offset: 160, content: '', id: KR2p0176_CHANT_016-6a.3_dup2, _xml_error: duplicate-id, _xml_original_id: KR2p0176_CHANT_016-6a.3}
-  - {type: substitution, offset: 165, original: 盗, replacement: 盜, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3333}}
   - {type: punctuation, offset: 166, content: 。, id: KR2p0176_CHANT_016-bkkpn34}
   - {type: 'tls:seg', offset: 166, content: '', id: KR2p0176_CHANT_016-6a.4}
   - {type: xml-element, offset: 169, content: '', id: KR2p0176_CHANT_016-bkkxmlele16, name: p, role: close}
@@ -101,7 +100,6 @@ markers:
   - {type: 'tls:seg', offset: 183, content: '', id: KR2p0176_CHANT_016-7a.5}
   - {type: punctuation, offset: 186, content: ，, id: KR2p0176_CHANT_016-bkkpn39}
   - {type: 'tls:seg', offset: 186, content: '', id: KR2p0176_CHANT_016-7a.6}
-  - {type: substitution, offset: 187, original: 叚, replacement: 假, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1105}}
   - {type: punctuation, offset: 190, content: 。, id: KR2p0176_CHANT_016-bkkpn40}
   - {type: 'tls:seg', offset: 190, content: '', id: KR2p0176_CHANT_016-7a.7}
   - {type: punctuation, offset: 193, content: ，, id: KR2p0176_CHANT_016-bkkpn41}
@@ -166,4 +164,4 @@ markers:
   - {type: 'tls:seg', offset: 323, content: '', id: KR2p0176_CHANT_016-9a.11}
   - {type: xml-element, offset: 326, content: '', id: KR2p0176_CHANT_016-bkkxmlele22, name: p, role: close}
   back: []
-hash: sha256:c92985528995594b61c052db2fca6befb1d0bc5732899cc51176f9e2f0f0a0f8
+hash: sha256:263cb38f8295af74c3847af090b3d05ac4cc48c1b5a82122728c523922a88670
