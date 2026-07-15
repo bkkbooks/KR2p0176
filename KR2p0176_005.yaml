@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 關市為作務及官府市受錢必輒入其錢缿中令市者見其入不從令者貲一甲關市
-  hash: sha256:e1c3fb9e7f6545c1c9757f67a6a1c2a5b66ce89ace60165b316350c9f540ae9d
+  text: 關市為作務及官府市受錢必輒入其錢缿中令市者見其入不從令者資一甲關市
+  hash: sha256:be8a60450bd7b80f8beeb70ae52c6690096288e12a6ae7d20cfc7d4f34c8064f
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR2p0176_CHANT_005-1a.1-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR2p0176.xml
-hash: sha256:d4aa016b7aec25900fd47e32d696660352909b67f8f9e7fb07bab2409b30d99c
+hash: sha256:c31a79e4ce5534eee1ca3ea49419324539c8029469297775a3b169a8d31f2ca4

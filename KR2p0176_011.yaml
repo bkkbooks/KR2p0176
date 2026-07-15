@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 軍爵律從軍當以勞論及賜未拜而死有罪法耐䙴其後及法耐䙴者皆不得受其爵及賜其已拜賜未受而死及法耐䙴者鼠賜軍爵律欲歸爵二級以免親父母為隸臣妾者一人及隸臣斬首為公士謁歸公士而免故妻隸妾一人者許之免以為庶人工隸臣斬首及人為斬首以免者皆令為工其不完者以為隱官工軍爵
-  hash: sha256:84cf3f6af525399cb89a11aefbd0703720fc1e2a2cda5ecc5350a2f253882873
+  text: 軍爵律從軍當以勞論及賜未拜而死有罪法耐䙲其後及法耐䙲者皆不得受其爵及賜其已拜賜未受而死及法耐䙲者鼠賜軍爵律欲歸爵二級以免親父母為隸臣妾者一人及隸臣斬首為公士謁歸公士而免故妻隸妾一人者許之免以為庶人工隸臣斬首及人為斬首以免者皆令為工其不完者以為隱官工軍爵
+  hash: sha256:2dd2d95f95cfc013f74e62d4e08eb34d35a87d9695a5b938b6bee5d2497e46d2
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR2p0176_CHANT_011-1a.1-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR2p0176.xml
-hash: sha256:f463613d6df7fa0040adf34cebf18e1751d252b2992440db3df88763d4c57c48
+hash: sha256:47341e9390e61c179afa017365cbb17397a1a9ea5c9176577d6de5b1e2cdf72e
